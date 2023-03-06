@@ -2,11 +2,11 @@
 Analista de sistemas, técnico em eletrônica e atualmente estudante da linguagem Python para mercado financeiro.
 
 - Atualmente mais focado em:
-<div style="display: inline">
+<div style="display: grid">
 <img with="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img with="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img with="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
- </div>         
+</div>         
           
 
 <!--
