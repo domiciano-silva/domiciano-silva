@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, meu nome é **Domiciano Carlos**  👋
+Analista de sistemas, técnico em eletrônica e atualmente estudante da linguagem Python para mercado financeiro.
 
 <!--
 **domiciano-silva/domiciano-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
