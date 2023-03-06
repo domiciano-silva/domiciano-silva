@@ -3,9 +3,9 @@ Analista de sistemas, técnico em eletrônica e atualmente estudante da linguage
 
 - Atualmente mais focado em:
 <div style="display: flex">
-         <img width='45' height='45' align=left hspace='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-         <img width='40' height='40' align=left hspace='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-         <img width='30' height='30' align=left hspace='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+         <img width='45' height='45' align=left hspace='10' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+         <img width='40' height='40' align=left hspace='10' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+         <img width='30' height='30' align=left hspace='10' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
            
 </div>         
           
