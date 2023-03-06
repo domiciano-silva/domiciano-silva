@@ -5,7 +5,7 @@ Analista de sistemas, técnico em eletrônica e atualmente estudante da linguage
 <div style="display: inline">
          <img width='50' height='50' align=left hspace="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
          <img width='50' height='50' align=left hspace="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-         <img width='90' height='90' align=left hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+         <img width='90' height='90' align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
 </div>         
           
 
