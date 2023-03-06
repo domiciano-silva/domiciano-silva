@@ -4,6 +4,10 @@ Analista de sistemas, técnico em eletrônica e atualmente estudante da linguage
 - Atualmente mais focado em:
 
 <img with="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img with="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img with="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+          
+          
 
 <!--
 **domiciano-silva/domiciano-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
